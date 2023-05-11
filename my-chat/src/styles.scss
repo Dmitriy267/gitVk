@@ -1,0 +1,24 @@
+@import './fonts/fonts.scss';
+body {
+    margin: 0;
+    padding: 0;
+    width: 1920px;
+    font-family:"Inter Regular", Helvetica, Arial, sans-serif;
+  }
+  div {
+    box-sizing: border-box;
+  }
+  a {
+    text-decoration: none;
+  }
+  a{
+    font-family: 'Inter Regular';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  }
+  section, nav, header, footer{
+    display: flex;
+  }
+  li{list-style:none}

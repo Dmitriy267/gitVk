@@ -1,0 +1,88 @@
+.FrendProfil__section{
+    display: flex;  
+}
+.wrapperProfil__div{
+    display: flex;
+    flex-direction: column;
+    width: 680px;
+    height: auto;
+}
+.profil__div{
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+    margin-top: 30px;
+    width: 350px;
+    height: 420px;
+
+}
+
+.profil__div img{
+    border-radius:50%;
+    width: 150px;
+    height: 150px;
+    border:2px solid #000;
+}
+
+.FrendInfo__div{
+    display: flex;
+    flex-direction: column;
+}
+.profil__ul{
+    padding: 0px;
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.postresult__div{
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+    height: 400px;
+    margin-left: 115px;
+    margin-top: 30px;
+}
+.dataPost__div{
+    display: block;
+    border:2px solid rgb(111, 141, 238);
+    width: 600px;
+    height: 390px;
+    position: relative;
+}
+.paddingText__div{
+    display: block;
+    background-color: rgba(212, 167, 167, 0.575);   
+}
+
+.paddingText__div p{
+    margin: 0; 
+    -webkit-line-clamp: 10; 
+    display: -webkit-box; 
+    -webkit-box-orient: vertical; 
+    overflow: hidden;
+   
+}
+.postBlock__div{
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    width: 350px;
+    height: 84px;
+    justify-content: space-between;
+}
+.addImagePost__div{
+width: 120px;
+height: 120px;
+display: flex;
+position: absolute;
+top: 2px;
+right: 2px;
+}
+.addImagePost__image{
+width: 120px;
+height: 120px;
+}

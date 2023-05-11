@@ -1,0 +1,22 @@
+.addImage__div{
+    display: grid;
+    grid-template-columns: repeat(3, 200px);
+    margin-top: 30px;
+    grid-template-rows:repeat(2, 200px) ;
+    column-gap: 15px;
+    row-gap: 15px;
+}
+.addImage__image{
+width: 200px;
+height: 200px;
+}
+.formBlock__div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+}
+.position__div{
+    position: absolute;
+    left:40px;
+}

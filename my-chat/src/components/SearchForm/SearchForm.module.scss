@@ -1,0 +1,47 @@
+.block__form{
+    margin-top: 30px;
+    display: flex;
+    width: 500px;
+    height: 90px;
+   
+}
+.block__form input{
+    margin-top: 0px;
+}
+
+.block__form button[type='submit']{
+    margin-left: 30px;
+   height: 50px;
+   width: 100px;
+   outline: none;
+   border: 0px;
+   background-color: rgb(130, 177, 240);
+   cursor: pointer;
+   font-family: 'Inter Medium';
+   color:#fff;
+   font-size: 16px;
+}
+
+.table__div{
+    display: grid;
+    grid-template-columns: repeat(2, 260px);
+    grid-template-rows: repeat(2, 260px);
+    gap: 40px 40px;
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+.blockFrends__div{
+    display: flex;
+    border: 1px solid #000;
+    width: 250px;
+    height: 250px;
+    background-color: rgb(241, 209, 209);
+    flex-direction: column;
+    align-items: center;
+}
+
+.blockFrends__div img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}

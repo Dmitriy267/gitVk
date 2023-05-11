@@ -1,0 +1,41 @@
+.listFrends__section{
+    align-items: center;
+    flex-direction: column;
+}
+.table__div{
+    display: grid;
+    grid-template-columns:  600px;
+    grid-template-rows: repeat(4, 150px);
+    margin-top: 60px;
+    margin-bottom: 40px;
+    row-gap: 20px;
+}
+.blockFrends__div{
+    display: flex;
+    border:1px solid rgb(194, 158, 158);
+}
+.position__div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 30px;
+    width: 545px;
+    height: 148px;
+}
+.position__div p{
+    font-family: 'Inter Medium';
+    font-size: 14px;
+    font-weight: 600;
+}
+.click__div{
+    margin-right: 30px;
+    width: 120px;
+    height: 120px;
+    cursor: pointer;
+}
+.click__div img{
+width: 120px;
+height: 120px;
+border-radius: 50%;
+}
+

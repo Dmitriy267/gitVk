@@ -1,0 +1,34 @@
+.wrapper__div{
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+.addText__div{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 500px;
+    height: 110px;
+    }
+    
+    .addText__div textarea{
+    height: 80px;
+    width: 490px;
+    }
+    
+    .GroupButton__div{
+        display: flex;
+        justify-content: space-between;
+        width: 500px;
+    
+    }
+    .GroupButton__div button{
+        height: 40px;
+        width: 120px;
+        border-radius: 10px;
+        cursor: pointer;
+        outline: none;
+        background-color: rgb(62, 168, 230);
+        color:#fff;
+        font-family: 'Inter Medium';
+        border:none
+    }
