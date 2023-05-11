@@ -15,7 +15,7 @@ function App() {
   return (
     <div className="App">
       <Routes>
-        <Route path='/' element={<MainPage/>}/>
+        <Route path='/Главная' element={<MainPage/>}/>
         <Route path='Вход и регистрация' element={<RouteMainAvtorization/>}/>
         <Route path='Регистрация' element={<PageRegistration/>}/>
         <Route path='Страница пользователя' element={<MyPage/>}/>
