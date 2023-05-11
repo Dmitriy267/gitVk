@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/gitVk/static/css/main.9364a9bb.css",
+    "main.js": "/gitVk/static/js/main.77f9e4a8.js",
+    "static/js/787.60bf9af3.chunk.js": "/gitVk/static/js/787.60bf9af3.chunk.js",
+    "static/media/Inter-Bold.ttf": "/gitVk/static/media/Inter-Bold.88fa7ae373b07b41ecce.ttf",
+    "static/media/Inter-SemiBold.ttf": "/gitVk/static/media/Inter-SemiBold.4d56bb21f2399db8ad48.ttf",
+    "static/media/Inter-Medium.ttf": "/gitVk/static/media/Inter-Medium.6dcbc9bed1ec438907ee.ttf",
+    "static/media/Inter-Regular.ttf": "/gitVk/static/media/Inter-Regular.e89cb19905e7db5591b0.ttf",
+    "static/media/myPhoto.jpg": "/gitVk/static/media/myPhoto.9661e29bf5bad6b5a87f.jpg",
+    "static/media/ant-design_instagram-outlined.svg": "/gitVk/static/media/ant-design_instagram-outlined.cf9fdf92887d23af822700fd4e94cf09.svg",
+    "static/media/mail.svg": "/gitVk/static/media/mail.3412247c9a379e1cb783e457591caf3a.svg",
+    "static/media/user.svg": "/gitVk/static/media/user.babc49fdeadc9f009106546e17133321.svg",
+    "static/media/ant-design_vk-outlined.svg": "/gitVk/static/media/ant-design_vk-outlined.ccc86b560b99884ec5421d592cf53a8c.svg",
+    "static/media/password.svg": "/gitVk/static/media/password.1fc07dc05871067bc40fdd7fefaa6de7.svg",
+    "index.html": "/gitVk/index.html",
+    "static/media/ant-design_fb-outlined.svg": "/gitVk/static/media/ant-design_fb-outlined.fbea10055dfee9d99357182f1af47c14.svg",
+    "main.9364a9bb.css.map": "/gitVk/static/css/main.9364a9bb.css.map",
+    "main.77f9e4a8.js.map": "/gitVk/static/js/main.77f9e4a8.js.map",
+    "787.60bf9af3.chunk.js.map": "/gitVk/static/js/787.60bf9af3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9364a9bb.css",
+    "static/js/main.77f9e4a8.js"
+  ]
+}
