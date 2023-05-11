@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gitVk/static/css/main.9364a9bb.css",
-    "main.js": "/gitVk/static/js/main.77f9e4a8.js",
+    "main.js": "/gitVk/static/js/main.3aceb96f.js",
     "static/js/787.60bf9af3.chunk.js": "/gitVk/static/js/787.60bf9af3.chunk.js",
     "static/media/Inter-Bold.ttf": "/gitVk/static/media/Inter-Bold.88fa7ae373b07b41ecce.ttf",
     "static/media/Inter-SemiBold.ttf": "/gitVk/static/media/Inter-SemiBold.4d56bb21f2399db8ad48.ttf",
@@ -16,11 +16,11 @@
     "index.html": "/gitVk/index.html",
     "static/media/ant-design_fb-outlined.svg": "/gitVk/static/media/ant-design_fb-outlined.fbea10055dfee9d99357182f1af47c14.svg",
     "main.9364a9bb.css.map": "/gitVk/static/css/main.9364a9bb.css.map",
-    "main.77f9e4a8.js.map": "/gitVk/static/js/main.77f9e4a8.js.map",
+    "main.3aceb96f.js.map": "/gitVk/static/js/main.3aceb96f.js.map",
     "787.60bf9af3.chunk.js.map": "/gitVk/static/js/787.60bf9af3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9364a9bb.css",
-    "static/js/main.77f9e4a8.js"
+    "static/js/main.3aceb96f.js"
   ]
 }
