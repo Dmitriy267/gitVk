@@ -1,4 +1,4 @@
-{ "homepage": "http://.github.io/{repo-name}",
+{ "homepage": "http://Dmitriy267.github.io/gitVk",
   "name": "my-chat",
   "version": "0.1.0",
   "private": true,
@@ -29,6 +29,8 @@
   "scripts": {
     "start": "react-scripts start",
     "start-server": "cd .. && cd server && npm run start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
